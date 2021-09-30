@@ -1,0 +1,4 @@
+client id 1 secret = XU0BGOVkRJNvnhsNkDdw9gN7332AvwCS9Q3YB5DV
+
+client id 2 secret = kbcwOraZklHMyIB84kXRsxOrXfN1LpWYfsptv2MR
+
